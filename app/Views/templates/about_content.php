@@ -168,8 +168,8 @@
         <div class="section-col section-col_guarantees section-col_img section-col_statistic">
             <div class="section-col__inner section-col__inner_img">
 
-                <img class="guarantees-img" src="script/1.0.14472/images/about-page/site-common/diploma@1x.png"
-                     srcset="script/1.0.14472/images/about-page/site-common/diploma@1x.jpg 1x, script/1.0.14472/images/about-page/site-common/diploma@2x.jpg 2x"/>
+                <img class="guarantees-img" src="<?php echo base_url(); ?>/script/1.0.14472/images/about-page/site-common/diploma@1x.png"
+                     srcset="<?php echo base_url(); ?>/script/1.0.14472/images/about-page/site-common/diploma@1x.jpg 1x, script/1.0.14472/images/about-page/site-common/diploma@2x.jpg 2x"/>
                                     <a class="site-link site-link_mobile" href="/regulation">Regulation</a>
                 
             </div>
@@ -184,49 +184,49 @@
 
     <ul class="rewards-list">
         <li class="rewards-list__item">
-            <img class="rewards-list__ico" src="script/1.0.14472/images/about-page/rewards/svg_about_rewards_fin_broker.svg" />
+            <img class="rewards-list__ico" src="<?php echo base_url(); ?>/script/1.0.14472/images/about-page/rewards/svg_about_rewards_fin_broker.svg" />
             <h3 class="rewards-list__title" data-key="about-page-awards-text-02">“Best Financial Broker”</h3>
             <p class="rewards-list__description">CPA Life Awards 2017</p>
         </li>
         <li class="rewards-list__item">
-            <img class="rewards-list__ico" src="script/1.0.14472/images/about-page/rewards/svg_about_rewards_best_platform.svg" />
+            <img class="rewards-list__ico" src="<?php echo base_url(); ?>/script/1.0.14472/images/about-page/rewards/svg_about_rewards_best_platform.svg" />
             <h3 class="rewards-list__title" data-key="about-page-awards-text-03">“Best Trading Platform”</h3>
             <p class="rewards-list__description">Le Fonti 2016</p>
         </li>
         <li class="rewards-list__item">
-            <img class="rewards-list__ico" src="script/1.0.14472/images/about-page/rewards/svg_about_rewards_best_broker.svg" />
+            <img class="rewards-list__ico" src="<?php echo base_url(); ?>/script/1.0.14472/images/about-page/rewards/svg_about_rewards_best_broker.svg" />
             <h3 class="rewards-list__title" data-key="about-page-awards-text-04">“Best Broker”</h3>
             <p class="rewards-list__description">KROUFR Awards 2016</p>
         </li>
         <li class="rewards-list__item">
-            <img class="rewards-list__ico" src="script/1.0.14472/images/about-page/rewards/svg_about_rewards_rapid_broker.svg" />
+            <img class="rewards-list__ico" src="<?php echo base_url(); ?>/script/1.0.14472/images/about-page/rewards/svg_about_rewards_rapid_broker.svg" />
             <h3 class="rewards-list__title" data-key="about-page-awards-text-05">The "Fastest Growing Broker"</h3>
             <p class="rewards-list__description">ShowFx World 2016</p>
         </li>
         <li class="rewards-list__item">
-            <img class="rewards-list__ico" src="script/1.0.14472/images/about-page/rewards/svg_about_rewards_forex_expo.svg" />
+            <img class="rewards-list__ico" src="<?php echo base_url(); ?>/script/1.0.14472/images/about-page/rewards/svg_about_rewards_forex_expo.svg" />
             <h3 class="rewards-list__title" data-key="about-page-awards-text-04">“Best Broker”</h3>
             <p class="rewards-list__description">Forex Expo 2017</p>
         </li>
         <li class="rewards-list__item">
-            <img class="rewards-list__ico" src="script/1.0.14472/images/about-page/rewards/svg_about_rewards_iaft_awards.svg" />
+            <img class="rewards-list__ico" src="<?php echo base_url(); ?>/script/1.0.14472/images/about-page/rewards/svg_about_rewards_iaft_awards.svg" />
             <h3 class="rewards-list__title" data-key="about-page-awards-text-06">“Innovative broker”</h3>
             <p class="rewards-list__description">IAFT Awards 2017</p>
         </li>
         <li class="rewards-list__item">
-            <img class="rewards-list__ico" src="script/1.0.14472/images/about-page/rewards/svg_about_rewards_best_le_fonti.svg" />
+            <img class="rewards-list__ico" src="<?php echo base_url(); ?>/script/1.0.14472/images/about-page/rewards/svg_about_rewards_best_le_fonti.svg" />
             <h3 class="rewards-list__title" data-key="about-page-awards-text-03">“Best Trading Platform”</h3>
             <p class="rewards-list__description">Le Fonti 2018</p>
         </li>
 
         <li class="rewards-list__item">
-            <img class="rewards-list__ico" src="script/1.0.14472/images/about-page/rewards/svg_fair_2019_01.svg" />
+            <img class="rewards-list__ico" src="<?php echo base_url(); ?>/script/1.0.14472/images/about-page/rewards/svg_fair_2019_01.svg" />
             <h3 class="rewards-list__title" data-key="about-page-awards-text-best-trading-platform">“Best Trading Platform 2018“</h3>
             <p class="rewards-list__description">The Forex Awards</p>
         </li>
 
         <li class="rewards-list__item">
-            <img class="rewards-list__ico" src="script/1.0.14472/images/about-page/rewards/svg_fair_2019_02.svg" />
+            <img class="rewards-list__ico" src="<?php echo base_url(); ?>/script/1.0.14472/images/about-page/rewards/svg_fair_2019_02.svg" />
             <h3 class="rewards-list__title" data-key="about-page-awards-text-best-traders-fb-th">“Best traders FB community in Thailand“</h3>
             <p class="rewards-list__description">Traders Fair 2018</p>
         </li>
@@ -405,12 +405,12 @@
 <div class="notes-rb-block"></div>
 <div class="notifications-container offscreen"></div>
 <script src="https://www.recaptcha.net/recaptcha/api.js?onload=grecaptchaOnload&render=explicit&hl=en" async></script>
-    <script src="script/v1/public/locale/list.2e11dd55.js" defer></script>
-<script src="script/v1/public/js/runtimeChunk.siteBinary.6db189b5.js" defer></script>
-<script src="script/v1/public/js/platformComponents.424fe3a2.js" defer></script>
-<script src="script/v1/public/js/vendors.da3672a8.js" defer></script>
-<script src="script/v1/public/js/core_ui-kit.03dd941c.js" defer></script>
-<script src="script/v1/public/js/core_transport.491161b9.js" defer></script>
-<script src="script/v1/public/js/core_icons.6e5706f2.js" defer></script>
-<script src="script/v1/public/js/siteBinary.1bb3b3f0.js" defer></script>
+    <script src="<?php echo base_url(); ?>/script/v1/public/locale/list.2e11dd55.js" defer></script>
+<script src="<?php echo base_url(); ?>/script/v1/public/js/runtimeChunk.siteBinary.6db189b5.js" defer></script>
+<script src="<?php echo base_url(); ?>/script/v1/public/js/platformComponents.424fe3a2.js" defer></script>
+<script src="<?php echo base_url(); ?>/script/v1/public/js/vendors.da3672a8.js" defer></script>
+<script src="<?php echo base_url(); ?>/script/v1/public/js/core_ui-kit.03dd941c.js" defer></script>
+<script src="<?php echo base_url(); ?>/script/v1/public/js/core_transport.491161b9.js" defer></script>
+<script src="<?php echo base_url(); ?>/script/v1/public/js/core_icons.6e5706f2.js" defer></script>
+<script src="<?php echo base_url(); ?>/script/v1/public/js/siteBinary.1bb3b3f0.js" defer></script>
   

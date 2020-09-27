@@ -111,10 +111,10 @@
   }
 </script>
 <script src="https://www.recaptcha.net/recaptcha/api.js?onload=grecaptchaOnload&render=explicit&hl=en" async></script>
-<script src="script/v1/public/locale/list.2e11dd55.js" defer></script>
-<script src="script/v1/public/js/runtimeChunk.home.736e0c9e.js" defer></script>
-<script src="script/v1/public/js/platformComponents.424fe3a2.js" defer></script>
-<script src="script/v1/public/js/vendors.da3672a8.js" defer></script>
-<script src="script/v1/public/js/core_ui-kit.03dd941c.js" defer></script>
-<script src="script/v1/public/js/core_transport.491161b9.js" defer></script>
-<script src="script/v1/public/js/core_icons.6e5706f2.js" defer></script>
+<script src="<?php echo base_url(); ?>/script/v1/public/locale/list.2e11dd55.js" defer></script>
+<script src="<?php echo base_url(); ?>/script/v1/public/js/runtimeChunk.home.736e0c9e.js" defer></script>
+<script src="<?php echo base_url(); ?>/script/v1/public/js/platformComponents.424fe3a2.js" defer></script>
+<script src="<?php echo base_url(); ?>/script/v1/public/js/vendors.da3672a8.js" defer></script>
+<script src="<?php echo base_url(); ?>/script/v1/public/js/core_ui-kit.03dd941c.js" defer></script>
+<script src="<?php echo base_url(); ?>/script/v1/public/js/core_transport.491161b9.js" defer></script>
+<script src="<?php echo base_url(); ?>/script/v1/public/js/core_icons.6e5706f2.js" defer></script>

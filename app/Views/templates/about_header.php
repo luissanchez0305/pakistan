@@ -15,21 +15,21 @@
 <title>About Olymp Trade: trade statistics</title>
 <meta name="description" lang="en" content='Details about Olymp Trade. Olymp Trade is a trading platform for investing. Trade statistics, payouts, bonuses.' />
 <link rel="canonical" href="/about" />
-<link rel="shortcut icon" href="script/1.0.14472/favicon.ico"/>
-<link rel="apple-touch-icon" sizes="57x57" href="script/1.0.14472/favicons/apple-touch-icon-57x57.png">
-<link rel="apple-touch-icon" sizes="60x60" href="script/1.0.14472/favicons/apple-touch-icon-60x60.png">
-<link rel="apple-touch-icon" sizes="72x72" href="script/1.0.14472/favicons/apple-touch-icon-72x72.png">
-<link rel="apple-touch-icon" sizes="76x76" href="script/1.0.14472/favicons/apple-touch-icon-76x76.png">
-<link rel="apple-touch-icon" sizes="114x114" href="script/1.0.14472/favicons/apple-touch-icon-114x114.png">
-<link rel="apple-touch-icon" sizes="120x120" href="script/1.0.14472/favicons/apple-touch-icon-120x120.png">
-<link rel="apple-touch-icon" sizes="144x144" href="script/1.0.14472/favicons/apple-touch-icon-144x144.png">
-<link rel="apple-touch-icon" sizes="152x152" href="script/1.0.14472/favicons/apple-touch-icon-152x152.png">
+<link rel="shortcut icon" href="<?php echo base_url(); ?>/script/1.0.14472/favicon.ico"/>
+<link rel="apple-touch-icon" sizes="57x57" href="<?php echo base_url(); ?>/script/1.0.14472/favicons/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="<?php echo base_url(); ?>/script/1.0.14472/favicons/apple-touch-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="<?php echo base_url(); ?>/script/1.0.14472/favicons/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="<?php echo base_url(); ?>/script/1.0.14472/favicons/apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="<?php echo base_url(); ?>/script/1.0.14472/favicons/apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="<?php echo base_url(); ?>/script/1.0.14472/favicons/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="<?php echo base_url(); ?>/script/1.0.14472/favicons/apple-touch-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="<?php echo base_url(); ?>/script/1.0.14472/favicons/apple-touch-icon-152x152.png">
 <link rel="apple-touch-icon" sizes="180x180" href="script/1.0.14472/favicons/apple-touch-icon-180x180.png">
-<link rel="icon" type="image/png" href="script/1.0.14472/favicons/favicon-32x32.png" sizes="32x32">
-<link rel="icon" type="image/png" href="script/1.0.14472/favicons/android-chrome-192x192.png" sizes="192x192">
-<link rel="icon" type="image/png" href="script/1.0.14472/favicons/favicon-96x96.png" sizes="96x96">
-<link rel="icon" type="image/png" href="script/1.0.14472/favicons/favicon-16x16.png" sizes="16x16">
-<link rel="mask-icon" href="script/1.0.14472/favicons/tabbar.svg" color="#2aa76d">
+<link rel="icon" type="image/png" href="<?php echo base_url(); ?>/script/1.0.14472/favicons/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="<?php echo base_url(); ?>/script/1.0.14472/favicons/android-chrome-192x192.png" sizes="192x192">
+<link rel="icon" type="image/png" href="<?php echo base_url(); ?>/script/1.0.14472/favicons/favicon-96x96.png" sizes="96x96">
+<link rel="icon" type="image/png" href="<?php echo base_url(); ?>/script/1.0.14472/favicons/favicon-16x16.png" sizes="16x16">
+<link rel="mask-icon" href="<?php echo base_url(); ?>/script/1.0.14472/favicons/tabbar.svg" color="#2aa76d">
 <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap&subset=cyrillic,vietnamese" rel="stylesheet">    <link rel="alternate" hreflang="ru" href="/ru-ru/about" />
     <link rel="alternate" hreflang="en" href="/en-us/about" />
     <link rel="alternate" hreflang="th" href="/th-th/about" />
@@ -49,19 +49,19 @@
     <link rel="alternate" hreflang="ar" href="/ar-ye/about" />
     <link rel="alternate" hreflang="fr" href="/fr-yt/about" />
     <link rel="alternate" hreflang="fa" href="/fa-af/about" />
-<link rel="manifest" href='data:application/manifest+json,{"name":"Olymptrade","short_name":"Olymp","default_locale":"en","description":"Olymp Trade","start_url":"/platform","background_color":"rgb(25, 36, 49)", "theme_color":"rgb(25, 36, 49)","display":"standalone","scope":"http://localhost:8080","icons":[{"src":"script/1.0.14472/favicons/android-chrome-48x48.png","sizes":"48x48","type":"image/png","density":"1.0"},{"src":"script/1.0.14472/favicons/android-chrome-72x72.png","sizes":"72x72","type":"image/png","density":"1.5"},{"src":"script/1.0.14472/favicons/android-chrome-96x96.png","sizes":"96x96","type":"image/png","density":"2.0"},{"src":"script/1.0.14472/favicons/android-chrome-144x144.png","sizes":"144x144","type":"image/png","density":"3.0"},{"src":"script/1.0.14472/favicons/android-chrome-192x192.png","sizes":"192x192","type":"image/png","density":"4.0"},{"src":"script/1.0.14472/favicons/android-chrome-512x512.png","sizes":"512x512","type":"image/png"}]}' />
-            <link rel="stylesheet" href="script/v1/public/style/core_ui-kit.78ff32de.css"/>
-<link rel="stylesheet" href="script/v1/public/style/platformComponents.07080d7f.css"/>
-<link rel="stylesheet" href="script/v1/public/style/siteBinary.09eeafc3.css"/>
-<link rel="stylesheet" href="script/v1/public/style/style-aboutPage.56a38f03.css"/>
+<link rel="manifest" href='data:application/manifest+json,{"name":"Olymptrade","short_name":"Olymp","default_locale":"en","description":"Olymp Trade","start_url":"/platform","background_color":"rgb(25, 36, 49)", "theme_color":"rgb(25, 36, 49)","display":"standalone","scope":"http://localhost:8085","icons":[{"src":"<?php echo base_url(); ?>/script/1.0.14472/favicons/android-chrome-48x48.png","sizes":"48x48","type":"image/png","density":"1.0"},{"src":"<?php echo base_url(); ?>/script/1.0.14472/favicons/android-chrome-72x72.png","sizes":"72x72","type":"image/png","density":"1.5"},{"src":"<?php echo base_url(); ?>/cript/1.0.14472/favicons/android-chrome-96x96.png","sizes":"96x96","type":"image/png","density":"2.0"},{"src":"<?php echo base_url(); ?>/script/1.0.14472/favicons/android-chrome-144x144.png","sizes":"144x144","type":"image/png","density":"3.0"},{"src":"<?php echo base_url(); ?>/script/1.0.14472/favicons/android-chrome-192x192.png","sizes":"192x192","type":"image/png","density":"4.0"},{"src":"<?php echo base_url(); ?>/script/1.0.14472/favicons/android-chrome-512x512.png","sizes":"512x512","type":"image/png"}]}' />
+            <link rel="stylesheet" href="<?php echo base_url(); ?>/script/v1/public/style/core_ui-kit.78ff32de.css"/>
+<link rel="stylesheet" href="<?php echo base_url(); ?>/script/v1/public/style/platformComponents.07080d7f.css"/>
+<link rel="stylesheet" href="<?php echo base_url(); ?>/script/v1/public/style/siteBinary.09eeafc3.css"/>
+<link rel="stylesheet" href="<?php echo base_url(); ?>/script/v1/public/style/style-aboutPage.56a38f03.css"/>
 
 
 <script type="text/javascript">
 
   window._globalsConfig = (function (t) {
     t.country = 'PA';
-t.cdnPath = 'script/v1';
-t.assetsPath = 'script/1.0.14472';
+t.cdnPath = '<?php echo base_url(); ?>/script/v1';
+t.assetsPath = '<?php echo base_url(); ?>/script/1.0.14472';
 t.page = 'about';
 t.project = 'bo';
 t.locale = 'en_US';
@@ -94,8 +94,8 @@ t.locale = 'en_US';
 
 </script>
 <!-- Do not move away from window._globalsConfig -->
-<script src="script/1.0.14472/js/stayIosInStandaloneMode.js"></script>
-<script src="script/1.0.14472/js/ga_local.js" async ></script>
+<script src="<?php echo base_url(); ?>/script/1.0.14472/js/stayIosInStandaloneMode.js"></script>
+<script src="<?php echo base_url(); ?>/script/1.0.14472/js/ga_local.js" async ></script>
 
     <script>
   function _globalSendErrorToGa(msg, url, line, col, error){

@@ -56,8 +56,8 @@
 
   window._globalsConfig = (function (t) {
     t.country = 'PA';
-t.cdnPath = 'script/v1';
-t.assetsPath = 'script/1.0.14472';
+t.cdnPath = '<?php echo base_url(); ?>/script/v1';
+t.assetsPath = '<?php echo base_url(); ?>/script/1.0.14472';
 t.page = 'home';
 t.project = 'bo';
 t.locale = 'en_US';
