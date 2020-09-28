@@ -1,0 +1,442 @@
+body {
+  background-color: #0b1118;
+  color: white;
+}
+
+.navbar-brand img {
+  padding-top: 8px;
+  width: 150px;
+}
+
+.bg-dark {
+  background-color: #0b1118 !important;
+}
+
+.hero-home img {
+  width: 100%;
+}
+.hero-home {
+  padding: 150px 0 120px 0;
+}
+
+.hero-lead {
+  font-size: 26px;
+  color: #a6bdd9;
+}
+
+nav li a {
+  color: #a6bdd9 !important;
+  padding: 20px 18px !important;
+}
+
+nav .btn {
+  margin: 0px 10px !important;
+}
+
+nav li a:hover {
+  color: #3e95ff !important;
+}
+
+.hero-home .btn {
+  padding: 12px 50px !important;
+}
+
+.hero-home h1 {
+  font-size: 62px;
+  font-weight: 600;
+}
+
+.card {
+  margin-bottom: 25px;
+}
+
+.section {
+  padding: 120px 0;
+}
+.bg-section {
+  background: #152533;
+}
+.card-info-dark .card-body,
+.card-img .card-body {
+  background: #152533;
+  color: white;
+  padding: 25px;
+  border-radius: 7px;
+}
+.card-info-dark .card,
+.card-img .card {
+  border: none;
+  background-color: transparent !important;
+}
+
+.card-img .card-fullh {
+  height: 100%;
+}
+.card-info-dark .smaller-card,
+.card-img .smaller-card {
+  height: 220px;
+}
+.section img {
+  width: 100%;
+}
+
+.width-80-img img {
+  width: 80% !important;
+  height: auto;
+  text-align: center;
+}
+
+.null-width-card .card-info-dark .smaller-card {
+  height: auto !important;
+}
+
+.mitad-content {
+  width: 50%;
+}
+.sub-navbar {
+  padding: 0 !important;
+}
+.sub-navbar li a {
+  color: black !important;
+}
+.btn-secondary {
+  background-color: #2a425f;
+  border-color: #2a425f;
+}
+.section-white {
+  background-color: white;
+}
+.section-gray {
+  background-color: #f4f4f4;
+  color: #0b1118;
+}
+.section-white p,
+.section-white h2,
+.section-white h3,
+.section-white h1,
+.section-white h5 {
+  color: black !important;
+}
+.card-grey {
+  background-color: #fafafa;
+}
+.padding-card-about {
+  padding: 80px 30px;
+}
+.section-content {
+  padding: 20px 60px;
+}
+.section-content h1,
+.padding-card-about h1 {
+  font-size: 34px;
+  font-weight: 200;
+}
+.h1-about {
+  font-weight: 300;
+}
+
+.icon-goals img {
+  width: 110px !important;
+  margin: 0 auto;
+}
+
+.icon-goals small {
+  display: block;
+  margin-top: -10px;
+  opacity: 0.7;
+}
+
+.background-about {
+  padding-bottom: 200px;
+  background-image: url(https://cdn1.olymptrade.com/v1/public/images/hero-bg@1x.b12555e8.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.bg-light {
+  background-color: #cedce8 !important;
+}
+
+h5 {
+  font-weight: 600;
+}
+
+.cut-padding-top {
+  padding-top: 0 !important;
+}
+
+.about-fb {
+  background: #4361a6;
+}
+
+.about-yt {
+  background: #cc2859;
+}
+
+.padding-sqaud-social {
+  padding: 18px;
+}
+.card-white .card-body {
+  background-color: white;
+  border: 1px solid rgb(212, 212, 212);
+  color: #0b1118;
+  text-align: center;
+}
+.padding-card-about-row {
+  padding: 80px 0px !important;
+}
+
+.white-accordion .card-body {
+  background-color: white;
+  color: black;
+}
+
+.white-accordion .card {
+  margin-bottom: 0;
+}
+
+.white-accordion .card-header {
+  padding: 0;
+  margin-bottom: 0;
+  background-color: rgb(255 255 255 / 3%);
+}
+.white-accordion .card-header button {
+  color: black !important;
+  font-weight: 600;
+}
+.section-white {
+  color: black;
+}
+.text-left {
+  text-align: left;
+}
+
+.card-info-dark .card-body:hover {
+  transition: 0.3s;
+  background: #1e83ff;
+  color: white;
+}
+.ligth-p {
+  color: #a6bdd9;
+}
+
+.section-page {
+  padding: 60px 0;
+}
+.botton-text {
+  position: absolute;
+  bottom: 25px;
+  padding: 0 25px;
+}
+.none-padding {
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+}
+.card-noLimit {
+  height: auto !important;
+}
+.card-noLimit .card-body {
+  height: auto !important;
+  padding: 10px;
+  margin-bottom: 15px;
+}
+
+.card-noLimit ul {
+  list-style-type: none;
+  padding-inline-start: 10px;
+}
+
+.card-noLimit small {
+  opacity: 0.5;
+}
+
+.card-noLimit .btn-primary {
+  background-color: transparent !important;
+  border: none !important;
+  font-weight: 600;
+  text-align: left;
+}
+
+.regulation img {
+  width: 100%;
+}
+
+.regulation li,
+.regulation p,
+.smaller-font {
+  font-size: 12px;
+}
+
+.list-group-item-action h5 {
+  font-weight: 500;
+}
+
+.insights .card-body img {
+  width: 108px;
+}
+
+.insights .card-noLimit .card-body {
+  padding: 25px;
+  margin-bottom: 15px;
+}
+
+.insights .card-info-dark .card-body:hover {
+  background-color: #2d4261;
+}
+.btn-simple {
+  background-color: transparent;
+  border: none;
+  padding: 0;
+  text-align: left;
+}
+.btn-simple:focus {
+  outline: none !important;
+}
+.btn-simple .card,
+.btn-simple .card-body {
+  margin: 0;
+}
+
+.feed button {
+  width: 100%;
+}
+.preference button {
+  background-color: transparent;
+  border: 1px #3b577b solid;
+  margin: 3px;
+  font-size: 12px;
+  color: white;
+  border-radius: 30px;
+  padding: 7px;
+}
+.avatar img {
+  width: 38px !important;
+  border-radius: 50%;
+}
+.flex {
+  display: flex;
+}
+.float-badge .badge {
+  float: right;
+}
+table td,
+table th {
+  color: white;
+  border: none !important;
+}
+
+.smaller-card-xs .smaller-card {
+  min-height: 180px;
+  height: auto !important;
+}
+
+.smaller-card-xs .smaller-card table td,
+.smaller-card-xs .smaller-card table th {
+  padding: 0;
+  padding-top: 18px;
+}
+
+.card-info-dark .no-hover .card-body:hover,
+.smaller-card-xs .card-info-dark .card-body:hover {
+  background-color: #152533;
+}
+
+.sm-font {
+  font-size: 12px !important;
+}
+
+.sb-font {
+  font-size: 14px !important;
+}
+
+.number-stat-red {
+  font-weight: 700;
+  color: red;
+}
+
+.botton-text-assets {
+  position: absolute;
+  bottom: 25px;
+  left: 35px;
+}
+
+.smaller-card-xs .smaller-card img {
+  width: 40px;
+  margin-bottom: 5px;
+}
+.left-img-assets img {
+  float: right;
+}
+.img-table-div {
+  width: 32px;
+}
+.img-table-profile {
+  width: 60px;
+}
+.table .section-img {
+  width: 36px;
+  padding-right: 0px;
+}
+.section-tablet {
+  border-bottom: 1px solid #2c4863;
+  padding: 13px 0;
+}
+
+.section-tablet {
+  color: white !important;
+}
+.card-limit-zero {
+  height: auto;
+}
+
+.section-tablet-null-border {
+  border-bottom: none !important;
+}
+.nav-tabs {
+  border-bottom: 1px solid #2c4863;
+}
+.nav-tabs button {
+  background-color: transparent;
+}
+.nav-tabs .nav-item.show .nav-link,
+.nav-tabs .nav-link.active {
+  color: white;
+  background-color: transparent;
+  border: none;
+  border-bottom: 1px solid;
+  border-color: #007dfa;
+}
+
+.nav-tabs a {
+  color: #a6bdd9;
+  font-size: 13px;
+  padding: 0.5rem 1.6rem;
+}
+
+.transition-hidden {
+  overflow: hidden;
+}
+
+.transition-text {
+  transform: translatey(153px);
+  transition: 0.4s;
+}
+.transition-hidden:hover .transition-text {
+  transform: translatey(20px) !important;
+}
+
+canvas {
+  border: none;
+}
+
+.chart-container {
+  position: relative;
+  margin: auto;
+  height: 350px;
+  width: 100%;
+}
+
+footer li .text-muted {
+  color: #cedce8 !important;
+  font-size: 13px;
+}
