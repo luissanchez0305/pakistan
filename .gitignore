@@ -130,4 +130,4 @@ nb-configuration.xml
 /phpunit*.xml
 /.phpunit.*.cache
 app/Config/Environments.php
-
+app/Config/App.php
