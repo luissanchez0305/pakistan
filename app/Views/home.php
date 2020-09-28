@@ -8,7 +8,7 @@
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
       <div class="container">
         <a class="navbar-brand" href="index.html"
-          ><img src="src/img/logo.png" alt=""
+          ><img src="<?php echo base_url(); ?>/src/img/logo.png" alt=""
         /></a>
         <button
           class="navbar-toggler collapsed"
@@ -71,7 +71,7 @@
             >
           </div>
           <div class="col-md-6">
-            <img src="src/img/hom_deskto.png" alt="imagen-inicial" />
+            <img src="<?php echo base_url(); ?>/src/img/hom_deskto.png" alt="imagen-inicial" />
           </div>
         </div>
       </div>
@@ -155,7 +155,7 @@
             </p>
           </div>
           <div class="col-md-6 width-80-img">
-            <img src="src/img/home_mobile.png" alt="" />
+            <img src="<?php echo base_url(); ?>/src/img/home_mobile.png" alt="" />
           </div>
 
           <div class="col-md-6">
@@ -419,28 +419,6 @@
     </section>
 
 <?php echo $footer; ?>
-<script>
-  function _globalSendErrorToGa(msg, url, line, col, error){
-    if(XMLHttpRequest){
-      var tid = 'UA-54693962-23';
-      var params = 'v=1&tid='+
-        tid+'&cid=1000746600975646028734931254835370159526584745968963487954554352&dl='+
-        encodeURIComponent(url)+'&t=event&ec=js_error&ea='+
-        encodeURIComponent(line)+'&el='+encodeURIComponent(col);
-      var url = 'https://www.google-analytics.com/collect?'+params;
-      var xhr = new XMLHttpRequest();
-      xhr.open("GET", url, true);
-      //xhr.setRequestHeader('x-requested-with', 'XMLHttpRequest');
-      xhr.send();
-    }
-  }
-  window.onerror = _globalSendErrorToGa;
-</script>
-<script>
-  function grecaptchaOnload() {
-    window.grecaptchaIsExist = true;
-  }
-</script>
 </body>
   <script>
     $(document).ready(function() {
