@@ -6,10 +6,10 @@
     <link
       rel="stylesheet"
       type="text/css"
-      href="bootstrap/css/bootstrap.min.css"
+      href="<?php echo base_url(); ?>/bootstrap/css/bootstrap.min.css"
     />
     <!-- Custom CSS -->
-    <link rel="stylesheet" type="text/css" href="src/dist/css/custom.css" />
+    <link rel="stylesheet" type="text/css" href="<?php echo base_url(); ?>/src/dist/css/custom.css" />
     <!-- JS BOOTSTRAP -->
     <script
       src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
@@ -28,7 +28,7 @@
     ></script>
     <script src="https://cdn.jsdelivr.net/npm/chart.js@2.8.0"></script>
     <!--Carrusel-->
-    <link rel="stylesheet" href="owlcarousel/owl.carousel.min.css" />
-    <link rel="stylesheet" href="owlcarousel/owl.theme.default.min.css" />
-    <script src="owlcarousel/owl.carousel.min.js"></script>
+    <link rel="stylesheet" href="<?php echo base_url(); ?>/owlcarousel/owl.carousel.min.css" />
+    <link rel="stylesheet" href="<?php echo base_url(); ?>/owlcarousel/owl.theme.default.min.css" />
+    <script src="<?php echo base_url(); ?>/owlcarousel/owl.carousel.min.js"></script>
     <title>Page - Olymp Trade</title>

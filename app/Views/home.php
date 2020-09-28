@@ -441,14 +441,20 @@
     window.grecaptchaIsExist = true;
   }
 </script>
-<script src="<?php echo base_url(); ?>/script/recaptcha/api.js?onload=grecaptchaOnload&render=explicit&hl=en" async=""></script>
-<script src="<?php echo base_url(); ?>/script/v1/public/locale/list.b23ce0cd.js" defer=""></script>
-<script src="<?php echo base_url(); ?>/script/v1/public/js/runtimeChunk.home.d6a5db99.js" defer=""></script>
-<script src="<?php echo base_url(); ?>/script/v1/public/js/platformComponents.17bda4aa.js" defer=""></script>
-<script src="<?php echo base_url(); ?>/script/v1/public/js/vendors.dce0a859.js" defer=""></script>
-<script src="<?php echo base_url(); ?>/script/v1/public/js/core_ui-kit.1d68c864.js" defer=""></script>
-<script src="<?php echo base_url(); ?>/script/v1/public/js/core_transport.491161b9.js" defer=""></script>
-<script src="<?php echo base_url(); ?>/script/v1/public/js/core_icons.7bdb5c1c.js" defer=""></script>
-<script src="<?php echo base_url(); ?>/script/v1/public/js/home.f548f2b7.js" defer=""></script>
 </body>
+  <script>
+    $(document).ready(function() {
+      $(".owl-carousel").owlCarousel({
+        margin: 18,
+        loop: true,
+        dots: true,
+        dotsEach: true,
+        autoWidth: true,
+        items: 4,
+        autoplay: true,
+        autoplayTimeout: 5000,
+        autoplayHoverPause: true
+      });
+    });
+  </script>
 </html>
