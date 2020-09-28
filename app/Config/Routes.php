@@ -32,14 +32,6 @@ $routes->setAutoRoute(true);
 // route since we don't have to scan directories.
 $routes->get('/', 'Pages::index');
 $routes->get('/about', 'Pages::about');
-$routes->get('/education', 'Pages::education');
-$routes->get('/en/education', 'Pages::education');
-$routes->get('/assets', 'Pages::assets');
-$routes->get('/en/assets', 'Pages::assets');
-$routes->get('/faq', 'Pages::faq');
-$routes->get('/en/faq', 'Pages::faq');
-$routes->get('/insights', 'Pages::insights');
-$routes->get('/en/insights', 'Pages::insights');
 
 /**
  * --------------------------------------------------------------------

@@ -6,10 +6,20 @@ class Pages extends Controller
 {
     public function index()
     {
-        $data['header'] = view('templates/header'); // Capitalize the first letter
-        $data['footer'] = view('templates/footer');
+        $data['header'] = view('templates/home-header'); // Capitalize the first letter
+        $data['top_menu'] = view('templates/home-top_menu');
+        $data['footer'] = view('templates/home-footer');
 
         echo view('home', $data);
+    }
+
+    public function about(){        
+        $data['header'] = view('templates/about-header'); // Capitalize the first letter
+        $data['top_menu'] = view('templates/about-top_menu');
+        $data['content'] = view('about');
+        $data['footer'] = view('templates/about-footer');
+
+        echo view('main-content', $data);
     }
 
     public function view($page = 'home')
