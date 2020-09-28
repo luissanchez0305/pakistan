@@ -9,7 +9,7 @@
       href="<?php echo base_url(); ?>/bootstrap/css/bootstrap.min.css"
     />
     <!-- Custom CSS -->
-    <link rel="stylesheet" type="text/css" href="<?php echo base_url(); ?>/src/dist/css/custom.css" />
+    <link rel="stylesheet" type="text/css" href="<?php echo base_url(); ?>/src/files/css/custom.css" />
     <!-- JS BOOTSTRAP -->
     <script
       src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
