@@ -2,7 +2,7 @@
     <!-- Navbar1 -->
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
       <div class="container">
-        <a class="navbar-brand" href="index.html"
+        <a class="navbar-brand" href="/"
           ><img src="<?php echo base_url(); ?>/src/img/logo.png" alt=""
         /></a>
         <button
@@ -19,29 +19,26 @@
         <div class="navbar-collapse collapse" id="navbarColor01">
           <ul class="navbar-nav mr-auto">
             <li class="nav-item active">
-              <a class="nav-link" href="regulation.html">Regulation</a>
-            </li>
-            <li class="nav-item active">
               <a class="nav-link" href="/about">About us</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="education.html">Education</a>
+              <a class="nav-link" href="/education">Education</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="faq.html">FAQ</a>
+              <a class="nav-link" href="/faq">FAQ</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="active.html">Assets</a>
+              <a class="nav-link" href="/active">Assets</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="insights.html">Insights</a>
+              <a class="nav-link" href="/insights">Insights</a>
             </li>
           </ul>
           <ul class="navbar-nav">
-            <a class="btn btn btn-secondary" href="login.html" role="button"
+            <a class="btn btn btn-secondary" href="/login" role="button"
               >Log in</a
             >
-            <a class="btn btn-primary" href="registre.html" role="button"
+            <a class="btn btn-primary" href="/registre" role="button"
               >Registration</a
             >
           </ul>
