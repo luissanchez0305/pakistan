@@ -31,9 +31,9 @@
     </section>
     <!-- Section2 -->
     <section class="section section-white cut-padding-top">
-      <div class="container card-img">
-        <div class="row">
-          <div class="col-md-6">
+      <div class="container-l card-img">
+        <div class="row topper-about">
+          <div class="col-md-6 bg-white-card">
             <div class="padding-card-about">
               <h1 class="mt-4 mb-4">Payouts</h1>
               <p>
@@ -42,14 +42,16 @@
             </div>
           </div>
           <div class="col-md-6 card-grey">
+          <div class="stat1-about-feature">
             <div class="padding-card-about text-center">
               <h1 class="mt-4 mb-4"> 13 703 841</h1>
               <p>
                   was paid out in the last month
               </p>
             </div>
+            </div>
           </div>
-          <div class="col-md-6">
+          <div class="col-md-6 bg-white-card">
             <div class="padding-card-about">
               <h1 class="mt-4 mb-4">Users per day</h1>
               <p>
@@ -59,14 +61,16 @@
             </div>
           </div>
           <div class="col-md-6 card-grey">
+          <div class="stat2-about-feature">
             <div class="padding-card-about text-center">
-              <h1 class="mt-4 mb-4">25 000+</h1>
-              <p>
-                  users are trading every day.
-              </p>
+                <h1 class="mt-4 mb-4">25 000+</h1>
+                <p>
+                    users are trading every day.
+                </p>
             </div>
           </div>
-          <div class="col-md-6">
+          </div>
+          <div class="col-md-6 bg-white-card">
             <div class="padding-card-about">
               <h1 class="mt-4 mb-4">Trades per month
                 </h1>
@@ -77,14 +81,16 @@
             </div>
           </div>
           <div class="col-md-6 card-grey">
-            <div class="padding-card-about text-center">
-              <h1 class="mt-4 mb-4">35 457 939</h1>
-              <p>
-                  trades were closed in the last month
-              </p>
+            <div class="stat3-about-feature">
+              <div class="padding-card-about text-center">
+                <h1 class="mt-4 mb-4">35 457 939</h1>
+                <p>
+                    trades were closed in the last month
+                </p>
+              </div>
             </div>
           </div>
-          <div class="col-md-6">
+          <div class="col-md-6 bg-white-card">
             <div class="padding-card-about">
               <h1 class="mt-4 mb-4">Trading volume</h1>
               <p>
@@ -93,12 +99,14 @@
             </div>
           </div>
           <div class="col-md-6 card-grey">
+          <div class="stat4-about-feature">
             <div class="padding-card-about text-center">
-              <h1 class="mt-4 mb-4">$ 179 229 316</h1>
-              <p>
-                  in turnover in the last month
-              </p>
-            </div>
+                <h1 class="mt-4 mb-4">$ 179 229 316</h1>
+                <p>
+                    in turnover in the last month
+                </p>
+              </div>
+          </div>
           </div>
         </div>
       </div>
@@ -251,17 +259,23 @@
                   <div class="card-body">
             <div class=" row">
                     <div class="col-md-4">
+                        <div class="bottom-text-ca">
                         <span class="h1">24/7</span>
                         <p>operates</p>
+                        </div>
               </div>
               <div class="col-md-4">
-                        <span class="h1">8</span>
+              <div class="bottom-text-ca">
+              <span class="h1">8</span>
                         <p>languages</p>
               </div>
+              </div>
               <div class="col-md-4">
-                        <p>an average of</p>
+              <div class="bottom-text-ca">
+              <p>an average of</p>
                         <span class="h1">15</span>
                         <p>seconds to respond</p>
+              </div>
               </div>
                 </div>
               </div>

@@ -148,10 +148,24 @@ nav li a:hover {
 }
 
 .background-about {
-  padding-bottom: 200px;
+  padding-bottom: 320px;
   background-image: url(https://cdn1.olymptrade.com/v1/public/images/hero-bg@1x.b12555e8.jpg);
   background-size: cover;
   background-repeat: no-repeat;
+}
+
+.container-l {
+  max-width: 1310px;
+  margin: 0 auto;
+}
+
+.topper-about {
+  position: relative;
+  top: -148px;
+}
+
+.bg-white-card {
+  background-color: white !important;
 }
 
 .bg-light {
@@ -522,6 +536,42 @@ footer li .text-muted {
   background-position: bottom;
 }
 
+.stat1-about-feature {
+  background-image: url(https://cdn1.olymptrade.com/v1/public/images/graph-payments.4836f5e4.svg);
+  width: 100%;
+  height: 100%;
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-position: bottom;
+}
+
+.stat2-about-feature {
+  background-image: url(https://cdn1.olymptrade.com/v1/public/images/graph-dailyusers.cb830118.svg);
+  width: 100%;
+  height: 100%;
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-position: bottom;
+}
+
+.stat3-about-feature {
+  background-image: url(https://cdn1.olymptrade.com/v1/public/images/graph-dealsmonth.b63f91d5.svg);
+  width: 100%;
+  height: 100%;
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-position: bottom;
+}
+
+.stat4-about-feature {
+  background-image: url(https://cdn1.olymptrade.com/v1/public/images/graph-total.9e60964f.svg);
+  width: 100%;
+  height: 100%;
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-position: bottom;
+}
+
 .idea-home-feature {
   background-image: url(https://cdn1.olymptrade.com/v1/public/images/home_advisor_bg.7d68fa79.jpg);
   width: 100%;
@@ -576,9 +626,19 @@ footer li .text-muted {
   background-position: bottom;
 }
 
+.bottom-text-ca {
+  height: 100%;
+}
+
 .team-home-feature img {
   width: 130px;
   margin-bottom: 15px;
+}
+
+.navbar-light .nav-link {
+  color: rgb(25, 24, 27) !important;
+  font-size: 13px;
+  font-weight: 700;
 }
 
 .bg-feature-green {
