@@ -18,6 +18,7 @@ class Pages extends Controller
         $data['top_menu'] = view('templates/about-top_menu');
         $data['content'] = view('about');
         $data['footer'] = view('templates/about-footer');
+        $data['scripts'] = '';
 
         echo view('main-content', $data);
     }
@@ -27,6 +28,7 @@ class Pages extends Controller
         $data['top_menu'] = view('templates/about-top_menu');
         $data['content'] = view('support');
         $data['footer'] = view('templates/about-footer');
+        $data['scripts'] = '';
 
         echo view('main-content', $data);
     }
@@ -36,6 +38,7 @@ class Pages extends Controller
         $data['top_menu'] = view('templates/plus-top_menu');
         $data['content'] = view('education');
         $data['footer'] = view('templates/plus-footer');
+        $data['scripts'] = '';
 
         echo view('main-content', $data);
     }
@@ -45,6 +48,7 @@ class Pages extends Controller
         $data['top_menu'] = view('templates/plus-top_menu');
         $data['content'] = view('education-details');
         $data['footer'] = view('templates/plus-footer');
+        $data['scripts'] = '';
 
         echo view('main-content', $data);
     }
@@ -54,6 +58,7 @@ class Pages extends Controller
         $data['top_menu'] = view('templates/about-top_menu');
         $data['content'] = view('regulation');
         $data['footer'] = view('templates/about-footer');
+        $data['scripts'] = '';
 
         echo view('main-content', $data);
     }
@@ -63,6 +68,7 @@ class Pages extends Controller
         $data['top_menu'] = view('templates/about-top_menu');
         $data['content'] = view('legal');
         $data['footer'] = view('templates/about-footer');
+        $data['scripts'] = '';
 
         echo view('main-content', $data);
     }
@@ -72,6 +78,7 @@ class Pages extends Controller
         $data['top_menu'] = view('templates/plus-top_menu');
         $data['content'] = view('insights');
         $data['footer'] = view('templates/plus-footer');
+        $data['scripts'] = '';
 
         echo view('main-content', $data);
     }
@@ -81,6 +88,7 @@ class Pages extends Controller
         $data['top_menu'] = view('templates/plus-top_menu');
         $data['content'] = view('assets-details');
         $data['footer'] = view('templates/plus-footer');
+        $data['scripts'] = '';
 
         echo view('main-content', $data);
     }
@@ -90,6 +98,7 @@ class Pages extends Controller
         $data['top_menu'] = view('templates/plus-top_menu');
         $data['content'] = view('faq');
         $data['footer'] = view('templates/plus-footer');
+        $data['scripts'] = '';
 
         echo view('main-content', $data);
     }
@@ -99,6 +108,7 @@ class Pages extends Controller
         $data['top_menu'] = view('templates/plus-top_menu');
         $data['content'] = view('faq-details');
         $data['footer'] = view('templates/plus-footer');
+        $data['scripts'] = '';
 
         echo view('main-content', $data);
     }
@@ -108,6 +118,7 @@ class Pages extends Controller
         $data['top_menu'] = view('templates/plus-top_menu');
         $data['content'] = view('assets');
         $data['footer'] = view('templates/plus-footer');
+        $data['scripts'] = '';
 
         echo view('main-content', $data);
     }
@@ -117,6 +128,7 @@ class Pages extends Controller
         $data['top_menu'] = view('templates/about-top_menu');
         $data['content'] = view('login');
         $data['footer'] = view('templates/about-footer');
+        $data['scripts'] = '';
 
         echo view('main-content', $data);
     }
@@ -126,6 +138,7 @@ class Pages extends Controller
         $data['top_menu'] = view('templates/about-top_menu');
         $data['content'] = view('registre');
         $data['footer'] = view('templates/about-footer');
+        $data['scripts'] = '';
 
         echo view('main-content', $data);
     }
