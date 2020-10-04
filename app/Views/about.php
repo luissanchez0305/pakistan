@@ -140,7 +140,7 @@
       </div>
     </section>
     <!-- Section4 -->
-    <section class="section">
+    <section class="section bg-award">
       <div class="container card-img">
         <div class="row  text-center">
           <div class="offset-md-3 col-md-6">
@@ -150,7 +150,7 @@
             <br />
           </div>
           <div class="col-md-3"></div>
-          <div class="col-md-4">
+          <div class="col-md-3">
             <div class="card smaller-card icon-goals">
               <div class="card-body">
                 <img
@@ -164,7 +164,7 @@
               </div>
             </div>
           </div>
-          <div class="col-md-4">
+          <div class="col-md-3">
             <div class="card smaller-card icon-goals">
               <div class="card-body">
                 <img
@@ -178,7 +178,77 @@
               </div>
             </div>
           </div>
-          <div class="col-md-4">
+          <div class="col-md-3">
+            <div class="card smaller-card icon-goals">
+              <div class="card-body">
+                <img
+                  src="https://cdn1.olymptrade.com/1.0.17994/images/about-page/rewards/svg_about_rewards_fin_broker.svg"
+                  alt=""
+                />
+                <p class="card-title">"Best Financial Broker"</p>
+                <small class="card-text">
+                  CPA Life Awards 2017
+                </small>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-3">
+            <div class="card smaller-card icon-goals">
+              <div class="card-body">
+                <img
+                  src="https://cdn1.olymptrade.com/1.0.17994/images/about-page/rewards/svg_about_rewards_fin_broker.svg"
+                  alt=""
+                />
+                <p class="card-title">"Best Financial Broker"</p>
+                <small class="card-text">
+                  CPA Life Awards 2017
+                </small>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-3">
+            <div class="card smaller-card icon-goals">
+              <div class="card-body">
+                <img
+                  src="https://cdn1.olymptrade.com/1.0.17994/images/about-page/rewards/svg_about_rewards_fin_broker.svg"
+                  alt=""
+                />
+                <p class="card-title">"Best Financial Broker"</p>
+                <small class="card-text">
+                  CPA Life Awards 2017
+                </small>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-3">
+            <div class="card smaller-card icon-goals">
+              <div class="card-body">
+                <img
+                  src="https://cdn1.olymptrade.com/1.0.17994/images/about-page/rewards/svg_about_rewards_fin_broker.svg"
+                  alt=""
+                />
+                <p class="card-title">"Best Financial Broker"</p>
+                <small class="card-text">
+                  CPA Life Awards 2017
+                </small>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-3">
+            <div class="card smaller-card icon-goals">
+              <div class="card-body">
+                <img
+                  src="https://cdn1.olymptrade.com/1.0.17994/images/about-page/rewards/svg_about_rewards_fin_broker.svg"
+                  alt=""
+                />
+                <p class="card-title">"Best Financial Broker"</p>
+                <small class="card-text">
+                  CPA Life Awards 2017
+                </small>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-3">
             <div class="card smaller-card icon-goals">
               <div class="card-body">
                 <img
@@ -201,12 +271,43 @@
         <div class="row">
           <div class="col-md-6">
             <div class="padding-card-about">
-              <div class="row">
-                <div class="col-md-6 padding-sqaud-social about-fb">
-                  Facebook
+              <div class="row text-center">
+                <div class="col-md-6 padding-sqaud-social">
+                  <div class="about-grid">
+                  <div class="about-fb">
+
+                  <svg xmlns="http://www.w3.org/2000/svg" class="traders-club-social__ico" id="svg_about_rewards_fb" viewBox="0 0 48 48">
+                              <g fill="none" fill-rule="evenodd">
+                                  <g>
+                                      <g fill="#FFF" fill-rule="nonzero" transform="translate(10 11)">
+                                          <g>
+                                              <path d="M24 0H3C1.35 0 0 1.35 0 3v21c0 1.6515 1.35 3 3 3h10.5V16.5h-3v-3.7125h3v-3.075c0-3.246 1.818-5.526 5.649-5.526l2.7045.003V8.097H20.058C18.567 8.097 18 9.216 18 10.254v2.535h3.852L21 16.5h-3V27h6c1.65 0 3-1.3485 3-3V3c0-1.65-1.35-3-3-3z"></path>
+                                          </g>
+                                      </g>
+                                      <path fill="#D8D8D8" fill-opacity="0" d="M0 0h48v48H0z"></path>
+                                  </g>
+                              </g>
+                          </svg>
+                  <h5>307 000+</h5>        
+                  </div>
+                  </div>
                 </div>
-                <div class="col-md-6 padding-sqaud-social about-yt">
-                  Youtube
+                <div class="col-md-6 padding-sqaud-social">
+                <div class="about-grid">
+                  <div class="about-yt">
+                  <svg class="traders-club-social__ico" xmlns="http://www.w3.org/2000/svg" id="svg_about_rewards_youtube" viewBox="0 0 48 48">
+                                <g fill="none" fill-rule="evenodd">
+                                    <g id="ic/yb_white">
+                                        <path id="Shape" fill="#FFF" fill-rule="nonzero" d="M38.4989 17.2172c-.355-1.526-1.6165-2.6518-3.1352-2.8198-3.5961-.3972-7.236-.3992-10.859-.3972-3.6238-.002-7.2642 0-10.8604.3972-1.5177.168-2.7783 1.2938-3.1333 2.8198-.5053 2.1732-.511 4.5455-.511 6.783 0 2.2374 0 4.6094.5053 6.7823.3544 1.5257 1.6153 2.6515 3.134 2.8198 3.5958.3975 7.236.3995 10.8597.3975 3.6242.002 7.2635 0 10.859-.3975 1.5178-.168 2.7796-1.2938 3.1346-2.8198C38.9982 28.6093 39 26.2373 39 24c0-2.2374.0042-4.6097-.5011-6.7829zM20.7576 28.4538v-9.4893c3.0735 1.5867 6.1266 3.1628 9.2195 4.7593-3.0833 1.5823-6.138 3.1489-9.2195 4.73z"></path>
+                                        <path fill="#D8D8D8" fill-opacity="0" d="M0 0h48v48H0z"></path>
+                                    </g>
+                                </g>
+                            </svg>
+                    <h5>
+                    19 000
+                    </h5>
+                  </div>
+                  </div>
                 </div>
               </div>
             </div>

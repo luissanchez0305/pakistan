@@ -182,10 +182,43 @@ h5 {
 
 .about-fb {
   background: #4361a6;
+  width: 100%;
+  height: 100%;
+  border-radius: 4px;
+}
+
+.about-grid h5 {
+  color: white !important;
 }
 
 .about-yt {
-  background: #cc2859;
+  background: #e92e2f;
+  width: 100%;
+  height: 100%;
+  border-radius: 4px;
+}
+
+.modal-content {
+  background: #131e2a !important;
+}
+
+.modal-body {
+  padding: 30px;
+}
+
+.modal-header,
+.modal-footer {
+  border-color: #385167 !important;
+}
+
+.about-grid {
+  height: 220px;
+  margin: 0 15px;
+}
+
+.about-grid svg {
+  margin-top: 50px;
+  width: 50px;
 }
 
 .padding-sqaud-social {
@@ -319,6 +352,43 @@ h5 {
 .feed button {
   width: 100%;
 }
+
+.modal-content .card {
+  background: transparent;
+}
+
+.mini-auto .smaller-card {
+  height: auto !important;
+}
+
+.mini-auto .card-body {
+  padding: 15px;
+}
+
+.close {
+  color: #fff !important;
+}
+
+.-nav-registre {
+  border-bottom: 1px solid rgb(190, 190, 190);
+}
+
+.-nav-registre a {
+  color: #adafb3;
+  font-size: 16px;
+  padding: 18px 25px;
+}
+
+.-nav-registre .active {
+  color: #0b1118 !important;
+}
+
+.mini-auto .table td,
+.mini-auto .table th {
+  padding: 0.2rem;
+  font-size: 12px;
+}
+
 .preference button {
   background-color: transparent;
   border: 1px #3b577b solid;
@@ -626,6 +696,12 @@ footer li .text-muted {
   background-position: bottom;
 }
 
+.bg-award {
+  background-image: url(https://cdn1.olymptrade.com/v1/public/images/bg-section-rewards.a476ada7.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
 .bottom-text-ca {
   height: 100%;
 }
@@ -647,4 +723,57 @@ footer li .text-muted {
 
 .it-padding {
   padding: 25px;
+}
+
+.bg-award .card-body {
+  background: transparent;
+}
+
+.text-right {
+  text-align: right;
+}
+
+.specs-table {
+  display: flex;
+}
+
+.specs-table span {
+  width: 50%;
+}
+
+.small-table {
+  font-size: 13px;
+}
+
+.small-table td {
+  padding: 0.25rem !important;
+}
+
+.tabs-lip .btn-outline-light {
+  border-color: #5b728c;
+  color: white;
+}
+.tabs-lip .btn-outline-light:hover {
+  border-color: #007dfa;
+  background-color: #007dfa;
+  color: white;
+}
+
+.tabs-lip .btn-outline-primary {
+  color: white !important;
+  border-color: #007dfa;
+}
+
+.olymp-input .form-control {
+  background-color: #eef2f7;
+  border-color: #c4ccd4;
+  padding: 5px;
+}
+
+.form-check-label {
+  font-size: 13px;
+}
+
+.flex-button-login {
+  display: flex;
 }

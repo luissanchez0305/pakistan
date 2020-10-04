@@ -76,7 +76,12 @@
       }
     };
 
-    Chart.Line("chart", {
+    Chart.Line("chart-price", {
+      options: options,
+      data: data
+    });
+
+    Chart.Line("chart-trading", {
       options: options,
       data: data
     });

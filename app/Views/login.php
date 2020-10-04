@@ -6,21 +6,25 @@
           <div class="offset-md-4 col-md-4">
             <h3 class="pb-3">You must log in to continue</h3>
             <div class="card">
+            <nav class="nav -nav-registre">
+                <a class="nav-link active" href="/login">Login</a>
+                <a class="nav-link" href="/registre">Registre</a>
+              </nav>
               <div class="card-body">
-                <form class="p-4">
+                <form class="p-4 olymp-input">
                   <div class="form-group">
-                    <label for="exampleInputEmail1">Email address</label>
                     <input
                       type="email"
+                      placeholder="Email"
                       class="form-control"
                       id="exampleInputEmail1"
                       aria-describedby="emailHelp"
                     />
                   </div>
                   <div class="form-group">
-                    <label for="exampleInputPassword1">Password</label>
                     <input
                       type="password"
+                      placeholder="Password"
                       class="form-control"
                       id="exampleInputPassword1"
                     />
